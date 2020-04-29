@@ -1,0 +1,13 @@
+C:\Users\MarcoAntonioMendozaG\Documents\GitHub\RabbitMQNetCore\Receive\bin\Debug\netcoreapp3.1\Receive.exe
+C:\Users\MarcoAntonioMendozaG\Documents\GitHub\RabbitMQNetCore\Receive\bin\Debug\netcoreapp3.1\Receive.deps.json
+C:\Users\MarcoAntonioMendozaG\Documents\GitHub\RabbitMQNetCore\Receive\bin\Debug\netcoreapp3.1\Receive.runtimeconfig.json
+C:\Users\MarcoAntonioMendozaG\Documents\GitHub\RabbitMQNetCore\Receive\bin\Debug\netcoreapp3.1\Receive.runtimeconfig.dev.json
+C:\Users\MarcoAntonioMendozaG\Documents\GitHub\RabbitMQNetCore\Receive\bin\Debug\netcoreapp3.1\Receive.dll
+C:\Users\MarcoAntonioMendozaG\Documents\GitHub\RabbitMQNetCore\Receive\bin\Debug\netcoreapp3.1\Receive.pdb
+C:\Users\MarcoAntonioMendozaG\Documents\GitHub\RabbitMQNetCore\Receive\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\MarcoAntonioMendozaG\Documents\GitHub\RabbitMQNetCore\Receive\obj\Debug\netcoreapp3.1\Receive.csprojAssemblyReference.cache
+C:\Users\MarcoAntonioMendozaG\Documents\GitHub\RabbitMQNetCore\Receive\obj\Debug\netcoreapp3.1\Receive.AssemblyInfoInputs.cache
+C:\Users\MarcoAntonioMendozaG\Documents\GitHub\RabbitMQNetCore\Receive\obj\Debug\netcoreapp3.1\Receive.AssemblyInfo.cs
+C:\Users\MarcoAntonioMendozaG\Documents\GitHub\RabbitMQNetCore\Receive\obj\Debug\netcoreapp3.1\Receive.csproj.CopyComplete
+C:\Users\MarcoAntonioMendozaG\Documents\GitHub\RabbitMQNetCore\Receive\obj\Debug\netcoreapp3.1\Receive.dll
+C:\Users\MarcoAntonioMendozaG\Documents\GitHub\RabbitMQNetCore\Receive\obj\Debug\netcoreapp3.1\Receive.pdb
